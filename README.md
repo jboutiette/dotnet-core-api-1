@@ -8,6 +8,7 @@ products:
 - azure
 - aspnet-core
 - azure-app-service
+- azure-sql
 ---
 
 # ASP.NET Core API sample for Azure App Service
